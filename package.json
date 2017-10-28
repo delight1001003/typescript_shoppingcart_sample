@@ -2,5 +2,11 @@
   "name": "shoppingCartTs",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jquery": "^3.2.15"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
